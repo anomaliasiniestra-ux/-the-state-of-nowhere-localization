@@ -1,8 +1,7 @@
 name: Translation Suggestion
 description: Suggest an improvement to an existing translation.
 title: "[Translation] "
-labels:
-  - translation
+labels: ["translation-request"]
 body:
   - type: dropdown
     id: language

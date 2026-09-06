@@ -1,8 +1,7 @@
 name: Localization Reference Issue
 description: Report a problem with context, glossary information, English reference text, or other protected localization data.
 title: "[Reference] "
-labels:
-  - localization-reference
+labels: ["reference-request"]
 body:
   - type: dropdown
     id: reference_type
