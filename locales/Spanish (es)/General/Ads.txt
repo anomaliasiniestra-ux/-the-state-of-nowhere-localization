@@ -134,7 +134,7 @@ Todo lo que creíste alguna vez sobre la historia... // ¡Es totalmente falso! /
 
 # [TRANSLATION]
 <<<
-Aprendiendo con Maligno // El nuevo programa de TV donde aprenderemos enseñanzas de nuestro amado lider // En el se abordaran infinidad de temas muy interesantes en el mundo de los negocios como... // 'Explotación laboral' // 'Subcontratación' // 'Despidiendo personal de baja categoria' // 'Vaciando mi primera empresa' // ¡Y muchos más! // Sintonícenos todos los días a las 18:00
+Aprendiendo con Maligno // El nuevo programa de TV donde aprenderemos enseñanzas de nuestro amado lider // En el se abordarán infinidad de temas muy interesantes en el mundo de los negocios como... // 'Explotación laboral' // 'Subcontratación' // 'Despidiendo personal de baja categoria' // 'Vaciando mi primera empresa' // ¡Y muchos más! // Sintonícenos todos los días a las 18:00
 >>>
 
 # ============================================================================
